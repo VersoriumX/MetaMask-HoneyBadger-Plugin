@@ -54,13 +54,13 @@
     "provider": {
       "type": "mainnet"
     },
-    "selectedAddress": "0xfdea65c8e26263f6d9a1b5de9555d2931a33b825"
+    "selectedAddress": "0x2b0B4D67B030e28cc80A97F7508FeB35d6415520"
   },
   "appState": {
     "menuOpen": false,
     "currentView": {
       "name": "buyEth",
-      "context": "0xfdea65c8e26263f6d9a1b5de9555d2931a33b825"
+      "context": "0x2b0B4D67B030e28cc80A97F7508FeB35d6415520"
     },
     "accountDetail": {
       "subview": "transactions"
